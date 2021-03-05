@@ -25,3 +25,5 @@
 #define неймспейс namespace
 #define абстракт abstract
 #define конст const
+#define тру true
+#define фолс false
