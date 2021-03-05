@@ -24,3 +24,4 @@
 #define елсе else
 #define неймспейс namespace
 #define абстракт abstract
+#define конст const
